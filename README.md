@@ -200,14 +200,12 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabioBRamos&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=FabioBRamos&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBRamos&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=FabioBRamos&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&langs_count=8&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FabioBRamos&theme=tokyonight&locale=pt-br&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=FabioBRamos&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FabioBRamos&theme=tokyo-night&hide_border=true&area=true&point=7AA2F7&line=BB9AF7)](https://github.com/FabioBRamos)
+![GitHub Streak](https://streak-stats.demolab.com/?user=FabioBRamos&theme=tokyonight&locale=pt-br&hide_border=true)
 
 </div>
+
+<sub>Cards gerados por serviços da comunidade; refletem principalmente atividade pública no GitHub.</sub>
