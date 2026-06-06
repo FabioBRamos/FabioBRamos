@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner — Fábio Ramos" width="100%"/>
+<img src="assets/banner.png" alt="Banner — Fábio Ramos" width="100%"/>
 
 <br/><br/>
 
@@ -69,7 +69,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 <h3 align="center">🏪 Gestor Morpho</h3>
 <p align="center"><sub>Desktop C# · extensão do Shop Control 9 · Rommanel Sergipe</sub></p>
 <p align="center">
-<img src="assets/projects/gestor-morpho.svg" alt="Screenshot do Gestor Morpho" width="100%"/>
+<img src="assets/projects/gestor-morpho.png" alt="Screenshot do Gestor Morpho" width="100%"/>
 </p>
 <p align="center">
 <strong>Problema:</strong> o ERP Shop Control 9 não atendia demandas específicas da operação varejista.<br/>
@@ -93,7 +93,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 <h3 align="center">📋 SGI — Sistema de Gestão Interna</h3>
 <p align="center"><sub>Web · NestJS + Vite · DPE-SE</sub></p>
 <p align="center">
-<img src="assets/projects/sgi.svg" alt="Screenshot do SGI" width="100%"/>
+<img src="assets/projects/sgi.png" alt="Screenshot do SGI" width="100%"/>
 </p>
 <p align="center">
 <strong>Problema:</strong> gestão manual de férias, abonos, frequência de estagiários e relatórios de atividades.<br/>
@@ -116,7 +116,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 <h3 align="center">🦐 Carcinicultura</h3>
 <p align="center"><sub>Web C# · gestão de viveiros de camarão</sub></p>
 <p align="center">
-<img src="assets/projects/carcinicultura.svg" alt="Screenshot do sistema Carcinicultura" width="80%"/>
+<img src="assets/projects/carcinicultura.png" alt="Screenshot do sistema Carcinicultura" width="80%"/>
 </p>
 <p align="center">
 <strong>Problema:</strong> controle operacional de viveiros espalhado em planilhas e anotações manuais.<br/>
@@ -140,7 +140,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 
 1. Capture a tela (Win+Shift+S) — oculte nomes, CPFs e dados sensíveis.
 2. Salve em `assets/projects/` como `gestor-morpho.png`, `sgi.png`, `carcinicultura.png` ou `sistema-solar.png`.
-3. No README, troque o `.svg` correspondente pelo `.png`.
+3. No README, aponte a imagem para o `.png` correspondente (ex.: `assets/projects/sgi.png`).
 4. **Gestor Morpho:** tela principal ou módulo mais usado.
 5. **SGI:** fluxo de férias/abonos ou dashboard.
 6. **Carcinicultura:** visão dos viveiros ou painel de produção.
@@ -161,7 +161,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 <h3 align="center">☀️ Sistema Solar</h3>
 <p align="center"><sub>Web · Django · DPE-SE · adaptado de Tocantins para Sergipe</sub></p>
 <p align="center">
-<img src="assets/projects/sistema-solar.svg" alt="Screenshot do Sistema Solar" width="80%"/>
+<img src="assets/projects/sistema-solar.png" alt="Screenshot do Sistema Solar" width="80%"/>
 </p>
 <p align="center">
 <strong>Contexto:</strong> sistema de apoio ao <strong>atendimento dos defensores públicos à população</strong>, de uso interno nas defensorias. Desenvolvido originalmente no <strong>Tocantins</strong> e adotado pela <strong>DPE-SE</strong>.<br/>
