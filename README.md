@@ -57,7 +57,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 **Em foco agora:** publicar projetos selecionados · documentar arquiteturas · compartilhar aprendizados no [blog](https://ramosbfabio.blogspot.com/)
 
 ---
-
+ 
 ## 🖼️ Projetos em destaque
 
 > Troque os placeholders em `assets/projects/` por screenshots reais (`.png` ou `.jpg`).
