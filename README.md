@@ -184,18 +184,6 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 
 ---
 
-## ✍️ Blog & conteúdo
-
-Compartilho reflexões e tutoriais em **[ramosbfabio.blogspot.com](https://ramosbfabio.blogspot.com/)**.
-
-| Tema | Onde encontrar |
-|------|----------------|
-| Tutoriais e notas técnicas | [Blog](https://ramosbfabio.blogspot.com/) |
-| Trajetória profissional | [LinkedIn](https://www.linkedin.com/in/fabiobrse/) |
-| Código aberto (em breve) | [GitHub](https://github.com/FabioBRamos) |
-
----
-
 ## 🏆 Conquistas no GitHub
 
 <div align="center">
@@ -221,30 +209,5 @@ Compartilho reflexões e tutoriais em **[ramosbfabio.blogspot.com](https://ramos
 ![Trophy](https://github-profile-trophy.vercel.app/?username=FabioBRamos&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FabioBRamos&theme=tokyo-night&hide_border=true&area=true&point=7AA2F7&line=BB9AF7)](https://github.com/FabioBRamos)
-
-</div>
-
----
-
-## 🤝 Vamos conversar?
-
-Estou aberto a colaborações, troca de experiências e oportunidades na área de TI.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobrse/)
-[![Blog](https://img.shields.io/badge/Ler_o_blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ramosbfabio.blogspot.com/)
-
-</div>
-
----
-
-<div align="center">
-
-*"Código é meio. Impacto no processo é o fim."*
-
-<br/>
-
-⭐ Se gostou do perfil, considere deixar uma estrela nos repositórios que publicar.
 
 </div>
