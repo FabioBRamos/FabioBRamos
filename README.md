@@ -64,7 +64,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3 align="center">🏪 Gestor Morpho</h3>
 <p align="center"><sub>Desktop C# · extensão do Shop Control 9 · Rommanel Sergipe</sub></p>
