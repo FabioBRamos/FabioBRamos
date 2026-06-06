@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#1a1b27" rx="8"/>
+  <rect x="16" y="16" width="608" height="328" fill="#24283b" rx="6" stroke="#414868" stroke-width="2" stroke-dasharray="8 6"/>
+  <rect x="40" y="40" width="560" height="28" fill="#32344a" rx="3"/>
+  <rect x="40" y="80" width="120" height="232" fill="#1a1b27" rx="4" stroke="#32344a"/>
+  <rect x="180" y="80" width="420" height="232" fill="#1a1b27" rx="4" stroke="#32344a"/>
+  <text x="320" y="200" text-anchor="middle" fill="#565f89" font-family="Segoe UI, Arial, sans-serif" font-size="18">Substitua por screenshot</text>
+  <text x="320" y="228" text-anchor="middle" fill="#9ece6a" font-family="Segoe UI, Arial, sans-serif" font-size="14">assets/projects/gestor-morpho.png</text>
+  <text x="320" y="330" text-anchor="middle" fill="#9aa5ce" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Gestor Morpho  Desktop C#</text>
+</svg>
