@@ -86,10 +86,10 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 <img src="https://img.shields.io/badge/Em_produ%C3%A7%C3%A3o-9ECE6A?style=flat" alt="Em produção"/>
 </p>
 <p align="center"><em>🔒 Código proprietário · maior sistema que desenvolvi</em></p>
-
 </td>
-<td width="50%" valign="top">
-
+</tr>
+<tr>
+<td width="100%" valign="top">
 <h3 align="center">📋 SGI — Sistema de Gestão Interna</h3>
 <p align="center"><sub>Web · NestJS + Vite · DPE-SE</sub></p>
 <p align="center">
