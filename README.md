@@ -1,6 +1,4 @@
-<div align="center">
-
-## 👨‍💻 Sobre mim.
+<div align="justify">
 
 Sou um **desenvolvedor full stack** formado em Ciências da Computação com experiência em ambientes **corporativos** e **públicos**. Atuo em todo o ciclo — **banco de dados**, **API**, **interfaces** e deploy — com foco em faciliar o trabalho dos demais colaboradores e entregar informações conforme for necessário.
 
