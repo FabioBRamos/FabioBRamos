@@ -1,19 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Banner — Fábio Ramos" width="100%"/>
-
-<br/><br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Desktop+%7C+Web+%7C+API+%7C+Banco+de+dados;Setor+p%C3%BAblico+e+corporativo;Transformando+processos+em+solu%C3%A7%C3%B5es)
-
-<br/>
-
-</div>
-
----
-
 ## 👨‍💻 Sobre mim.
-
 
 Sou um **desenvolvedor full stack** formado em Ciências da Computação com experiência em ambientes **corporativos** e **públicos**. Atuo em todo o ciclo — **banco de dados**, **API**, **interfaces** e deploy — com foco em faciliar o trabalho dos demais colaboradores e entregar informações conforme for necessário.
 
