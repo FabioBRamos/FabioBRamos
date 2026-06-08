@@ -8,12 +8,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobrse/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ramosbfabio.blogspot.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabioBRamos)
-
-<img src="https://komarev.com/ghpvc/?username=FabioBRamos&color=7aa2f7&style=for-the-badge&label=Visitantes" alt="Contador de visitas"/>
-
 </div>
 
 ---
@@ -28,11 +22,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 
 ## 🏢 Onde atuo
 
-| Organização | Contexto |
-|-------------|----------|
-| **DPE-SE** | Defensoria Pública do Estado de Sergipe |
-| **GrupoAT** | Tecnologia e soluções corporativas |
-| **Cruz & Ramos** | Atuação profissional |
+Atualmente sou desenvolvedor sênior na Defensoria Pública do Estado de Sergipe, e prestador de serviços para a distribuidora Rommanel Sergipe, além de construir softwares como freelancer juntamente com meu sócio na Cruz & Ramos.
 
 ---
 
@@ -40,17 +30,9 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 
 <div align="center">
 
-![Full Stack](https://img.shields.io/badge/Full_Stack-7AA2F7?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Tenho experiência como ![Full Stack](https://img.shields.io/badge/Full_Stack-7AA2F7?style=for-the-badge) onde desenvolvi um software de uso interno para a Rommanel Sergipe em ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) com ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) e ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white).
+
+Atualmente desenvolvo usando ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) e ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) em outro projeto interno da Defensoria do meu estado, e contribui em um projeto nacional que usa ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -58,7 +40,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 
 ---
  
-## 🖼️ Projetos em destaque
+## 🖼️ Sistemas de minha autoria.
 
 > Troque os placeholders em `assets/projects/` por screenshots reais (`.png` ou `.jpg`).
 
@@ -135,21 +117,6 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 </tr>
 </table>
 
-<details>
-<summary><strong>📷 Como adicionar screenshots</strong></summary>
-
-1. Capture a tela (Win+Shift+S) — oculte nomes, CPFs e dados sensíveis.
-2. Salve em `assets/projects/` como `gestor-morpho.png`, `sgi.png`, `carcinicultura.png` ou `sistema-solar.png`.
-3. No README, aponte a imagem para o `.png` correspondente (ex.: `assets/projects/sgi.png`).
-4. **Gestor Morpho:** tela principal ou módulo mais usado.
-5. **SGI:** fluxo de férias/abonos ou dashboard.
-6. **Carcinicultura:** visão dos viveiros ou painel de produção.
-7. **Sistema Solar:** tela de atendimento ou fluxo adaptado para a DPE-SE.
-
-</details>
-
----
-
 ## 🤝 Também contribuo em
 
 > Projetos em equipe — participação ativa, sem autoria principal.
@@ -181,31 +148,3 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Conquistas no GitHub
-
-<div align="center">
-
-| 🦈 Pull Shark | 🤝 Pair Extraordinaire | 🎯 YOLO | ⚡ Quickdraw |
-|:---:|:---:|:---:|:---:|
-| x3 | ✓ | ✓ | ✓ |
-
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=FabioBRamos&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=FabioBRamos&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&langs_count=8&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=FabioBRamos&theme=tokyonight&locale=pt-br&hide_border=true)
-
-</div>
-
-<sub>Cards gerados por serviços da comunidade; refletem principalmente atividade pública no GitHub.</sub>
