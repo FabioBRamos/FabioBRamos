@@ -30,9 +30,11 @@ Atualmente sou desenvolvedor sênior na Defensoria Pública do Estado de Sergipe
 
 <div align="justify">
 
-Tenho experiência como ![Full Stack](https://img.shields.io/badge/Full_Stack-7AA2F7?style=for-the-badge) onde desenvolvi um software de uso interno para a Rommanel Sergipe em ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) com ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) e ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white).
+Tenho experiência com fullstack onde desenvolvi um software de uso interno para a Rommanel Sergipe em .net com c# e SQL Server.
+![Full Stack](https://img.shields.io/badge/Full_Stack-7AA2F7?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-Atualmente desenvolvo usando ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) e ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) em outro projeto interno da Defensoria do meu estado, e contribui em um projeto nacional que usa ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Atualmente desenvolvo usando Nest.js e Vite em outro projeto interno da Defensoria do meu estado, além de contribuir em um projeto nacional que usa Django.
+ ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
