@@ -4,7 +4,6 @@ Sou um **desenvolvedor full stack** formado em Ciências da Computação com exp
 
 Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas com **NestJS** e **Vite**. Muitos projetos vivem em repositórios privados; por isso documento aqui o trabalho real com **descrições e screenshots**.
 
----
 
 ## 🏢 Onde atuo.
 
@@ -12,7 +11,7 @@ Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas
 Atualmente sou desenvolvedor sênior na Defensoria Pública do Estado de Sergipe, e prestador de serviços para a distribuidora Rommanel Sergipe, além de construir softwares como freelancer juntamente com meu sócio na Cruz & Ramos.
 
 </div>
----
+
 
 ## 🛠️ Stack & ferramentas.
 
@@ -32,7 +31,6 @@ Além de contribuir em um projeto nacional de autoria da Defensoria do Tocantins
 
 </div>
 
----
  
 ## 🖼️ Sistemas de minha autoria.
 
