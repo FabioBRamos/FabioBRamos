@@ -14,29 +14,37 @@
 
 ## 👨‍💻 Sobre mim.
 
-Sou **desenvolvedor full stack** com experiência em ambientes **corporativos** e **públicos**. Atuo em todo o ciclo — **banco de dados**, **API**, **interfaces** e deploy — com foco em entrega de valor, qualidade e melhoria contínua.
+<div align="justify">
+Sou um **desenvolvedor full stack** formado em Ciências da Computação com experiência em ambientes **corporativos** e **públicos**. Atuo em todo o ciclo — **banco de dados**, **API**, **interfaces** e deploy — com foco em faciliar o trabalho dos demais colaboradores e entregar informações conforme for necessário.
 
 Desenvolvo desde sistemas **desktop** e **web** em C# até aplicações modernas com **NestJS** e **Vite**. Muitos projetos vivem em repositórios privados; por isso documento aqui o trabalho real com **descrições e screenshots**.
 
+</div>
 ---
 
 ## 🏢 Onde atuo.
 
+<div align="justify">
 Atualmente sou desenvolvedor sênior na Defensoria Pública do Estado de Sergipe, e prestador de serviços para a distribuidora Rommanel Sergipe, além de construir softwares como freelancer juntamente com meu sócio na Cruz & Ramos.
 
+</div>
 ---
 
 ## 🛠️ Stack & ferramentas.
 
 <div align="justify">
 
-Tenho experiência com fullstack onde desenvolvi um software de uso interno para a Rommanel Sergipe em .net com c# e SQL Server.
+> Tenho experiência como fullstack onde desenvolvi um software de uso interno para a Rommanel Sergipe em .net com c# e SQL Server hospedado no IIS do Windows Server.
 <br/>
 ![Full Stack](https://img.shields.io/badge/Full_Stack-7AA2F7?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-Atualmente desenvolvo usando Nest.js e Vite em outro projeto interno da Defensoria do meu estado, além de contribuir em um projeto nacional que usa Django.
+> Atualmente desenvolvo usando Nest.js e Vite em outro projeto interno da Defensoria do meu estado
 <br/>
- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
+
+> Além de contribuir em um projeto nacional de autoria da Defensoria do Tocantins, o Solar que usa Django.
+<br>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
